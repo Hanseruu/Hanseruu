@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there👋
 
-<!--
-**Hanseruu/Hanseruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Hansell, a Software Engineer Student based in Dominican Republic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create multiplatform apps from scratch and work with back-end stuff - C#, .Net.
+
+This is a clean profile where I'll be uploading new projects, ideas, and experiments i'm currently working on. 
+
+ ---
+ ## Tools & Tech
+- .Net, Entity Framework, ASP.NET, LINQ.
+- Kotlin, Java.
+
+ ---
+ ## A Bit About Me
+ - ☕ I'm a coffee lover. 
+ - 🐕 I have a dog. 
+ - 💻 Enjoy building things and designing them from scratch.
+ - ☾⭒ Into Films - Interstellar is my favorite one. 
