@@ -10,6 +10,7 @@ This is a clean profile where I'll be uploading new projects, ideas, and experim
  ---
  ## Tools & Tech
 - .Net, Entity Framework, ASP.NET, LINQ.
+- React Native, Expo.
 - Kotlin, Java.
 
  ---
